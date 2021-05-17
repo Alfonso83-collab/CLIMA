@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+
+
+    <string name="texto_bienvenida">
+       SELECCIONE OPCION PARA VER DETALLES DE CLIMA
+    </string>
+
+    <string name="texte_boton_puebla"> Clima de la ciudad de Puebla</string>
+    <string name="texte_boton_ajalpan"> Clima de la ciudad de Ajalpan</string>
+    <string name="texte_boton_tehuacan"> Clima de la ciudad de tehuacan</string>
+    <string name="texte_boton_coxcatlan"> Clima de la ciudad de Coxcatlan</string>
+</resources>
